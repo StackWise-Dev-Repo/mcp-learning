@@ -1,0 +1,66 @@
+[
+    {
+        "id": "user_101",
+        "name": "Zainab Tariq",
+        "email": "zainab.tariq@example.com",
+        "age": 27,
+        "address": "House 14, Street 9, F-10/2, Islamabad",
+        "password": "Pass#101Demo"
+    },
+    {
+        "id": "user_102",
+        "name": "Hamza Raza",
+        "email": "hamza.raza@example.com",
+        "age": 31,
+        "address": "Plot 42-B, Model Town, Lahore",
+        "password": "Pass#102Demo"
+    },
+    {
+        "id": "user_103",
+        "name": "Sana Mahmood",
+        "email": "sana.mahmood@example.com",
+        "age": 24,
+        "address": "Flat 8, Clifton Block 4, Karachi",
+        "password": "Pass#103Demo"
+    },
+    {
+        "id": "user_104",
+        "name": "Usman Farooq",
+        "email": "usman.farooq@example.com",
+        "age": 35,
+        "address": "Lane 5, Chaklala Scheme III, Rawalpindi",
+        "password": "Pass#104Demo"
+    },
+    {
+        "id": "user_105",
+        "name": "Hira Siddiqui",
+        "email": "hira.siddiqui@example.com",
+        "age": 29,
+        "address": "Street 22, Gulberg III, Faisalabad",
+        "password": "Pass#105Demo"
+    },
+    {
+        "id": "user_106",
+        "name": "Amad Ali",
+        "email": "ahmad.shopify.dev@gmail.com",
+        "password": "retetret",
+        "age": 22,
+        "address": "HMC Road Ahata, Taxila Punjab, Pakistan"
+    },
+    {
+        "id": "user_107",
+        "name": "Ali",
+        "email": "ali@example.com",
+        "password": "Pass1234",
+        "age": 28,
+        "address": "Lahore"
+    },
+    {
+        "id": "user_108",
+        "name": "Ali",
+        "email": "ali@example.com",
+        "password": "Pass1234",
+        "age": 28,
+        "address": "Lahore"
+    }
+]
